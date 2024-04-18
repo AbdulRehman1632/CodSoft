@@ -1,48 +1,30 @@
-@media screen and (max-width:768px ) {
+@media screen and (max-width:600px){
 
-    .move {margin-left: 0px;}
+    .lists {margin-left: auto}
 
-    .special-nav {margin-left: 0px;}
+    .home-wrapper img{width: 100%;margin-top: 20px;}
+
+    .home {margin-top: -60px;}
+
+    .about-heading{margin-top: 30px;}
+
+    .progress-bar {
+        width: 100%;
+    }
+
+    .contact-image img{
+        margin-right: 38px;
+    }
     
-    .move2  {margin-left: 0px; margin-top: 10px;}
+    .navbar-toggler{
+        display: none;
+    }
 
-    .header {margin-top: 0px;}
+    .mobile {
+        display:block;margin-left: 20px;
+    }
 
-    .header-img img{width: 100%;}
-
-    .sign-in , .button {display: none;}
-
-    .points {margin-left: 100px;}
-
-    .banner-image img{width: 100%;}
-
-    .network-image img{width: 100%;}
-
-    .sponsored-image img{width: 100%;}
-
-    .r-card {margin-top: 20px;}
-
-    .user {margin-left: 0px;}
-
-    .products li{margin-left: -30px;}
-
-    .footer {margin-left: -20px;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    .card {margin-top: 50px;}
 
 
 }
