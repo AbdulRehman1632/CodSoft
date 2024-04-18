@@ -1,0 +1,48 @@
+@media screen and (max-width:768px ) {
+
+    .move {margin-left: 0px;}
+
+    .special-nav {margin-left: 0px;}
+    
+    .move2  {margin-left: 0px; margin-top: 10px;}
+
+    .header {margin-top: 0px;}
+
+    .header-img img{width: 100%;}
+
+    .sign-in , .button {display: none;}
+
+    .points {margin-left: 100px;}
+
+    .banner-image img{width: 100%;}
+
+    .network-image img{width: 100%;}
+
+    .sponsored-image img{width: 100%;}
+
+    .r-card {margin-top: 20px;}
+
+    .user {margin-left: 0px;}
+
+    .products li{margin-left: -30px;}
+
+    .footer {margin-left: -20px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

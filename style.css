@@ -1,0 +1,105 @@
+body {font-family: roboto; scroll-behavior: smooth;}
+
+@font-face {
+    font-family: roboto;
+    src: url(./assets/fonts/Roboto-Medium.ttf);
+}
+
+:root {--primary-color: #3878FF;
+    --secondary-color:#000;
+    --para-color:rgba(128, 128, 128, 0.884);
+    --bg-color: #645c5c;}
+    
+    li {list-style-type: none ;}
+   a {text-decoration: none;}
+
+
+/* --navbar start */
+
+.move {margin-left: 120px;}
+
+.special-nav {margin-left: 200px;}
+
+.move2  {margin-left: 20px;}
+
+.sign-in{font-weight: 500;color: var(--secondary-color);}
+
+.button {border: 1px solid var(--primary-color);border-radius: 20px;}
+
+.button a {font-weight: 500;}
+
+.button:hover { background-color: var(--primary-color);}
+
+.button :hover a {color: white;}
+
+/* --navbar end  */
+
+/* --header start  */
+
+
+.button2 a{padding: 30px;}
+
+.button2 a{color: rgb(255, 255, 255);}
+
+.heading {font-weight: 600;margin-top: 70px;}
+
+.one {font-weight: 800;}
+
+.mt {margin-top: 25px}
+
+.header-text {margin-top: 80px;}
+.header {margin-top: 40px;}
+
+.fa-user , .fa-location-dot , .fa-server {font-size: 1.5em;}
+
+.special-top{margin-top: -45px;font-weight: 700;margin-left: 20px;}
+
+
+.fa-user , .fa-location-dot , .fa-server,.check {border: px solid rgb(184, 158, 112); border-radius: 100px; padding: 10px;background-color: rgb(230, 222, 210);}
+
+.plan-heading {text-align: center;}
+
+
+.plan-btn a {border: 1.5px solid ;padding: 8px 40px 8px 40px;border-radius: 25px;font-weight: 700;}
+
+.plan-btn :hover  {background-color: #3878FF; color: white;}
+
+.cards {text-align: center;}
+
+.sub-card {border: 1px solid #DDDDDD;border-radius: 5px;padding: 20px 10px 30px 10px;}
+
+.plan-points {margin-left: -40px;}
+
+.free1 {margin-top: 80px;}
+
+.free2 {margin-top: 39px;}
+
+.network{text-align: center;}
+
+.network-span {font-weight:900 ;}
+
+.review {text-align: center;}
+
+.r-card {border: 1px solid #DDDDDD; padding: 20px;border-radius: 5px;}
+
+.r-para , .star {font-size: 1.1em; font-weight: 500;}
+
+.r-name {font-weight: 700;font-size: 1.3em; margin-left: 10px;}
+
+.social {margin-left: 15px; font-size: 1.8em; border: 1px solid #dddd; padding: 10px; border-radius: 50px; background-color: aliceblue;}
+
+.copy-right{color: #999393;}
+
+.main {font-weight: 700;font-size: 1.3em;}
+
+.special {margin-top: 10px;}
+
+.bold {font-weight: 800;}
+
+.user {margin-left: 100px;}
+
+.footer {background-color: aliceblue; padding: 30px;}
+
+
+
+
